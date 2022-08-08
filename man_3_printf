@@ -1,4 +1,4 @@
-.TH _PRINTF 3 "28 February 2018" "1" "_printf Manual"
+.TH _PRINTF 3 "08 August 2022" "Version 1" "_printf Manual Page"
 .SH NAME
 _printf()
 
@@ -70,4 +70,4 @@ Output : "The dog jumped 4 times!"
 .SH SEE ALSO
 .B printf(3)
 .SH AUTHOR
-Collins ojougboh, Okoro Stanley I
+Collins Ojougboh, Okoro Stanley I
